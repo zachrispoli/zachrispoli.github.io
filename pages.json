@@ -1,0 +1,67 @@
+{
+	"pages": [
+		{
+			"filename": "index",
+			"values": {
+				"title": "Zach Rispoli | Software developer portfolio",
+				"content": "profile.html"
+			}
+		},
+		{
+			"filename": "wickeditor",
+			"values": {
+				"title" : "Projects | Wick Editor",
+				"content": "content_wickeditor.html"
+			}
+		},
+		{
+			"filename": "dranimate",
+			"values": {
+				"title" : "Projects | Dranimate",
+				"content": "content_dranimate.html"
+			}
+		},
+		{
+			"filename": "artface",
+			"values": {
+				"title" : "Projects | #ARTFACE",
+				"content": "content_artface.html"
+			}
+		},
+		{
+			"filename": "studio",
+			"values": {
+				"title" : "Projects | STUDIO For Create Inquiry Website",
+				"content": "content_studio.html"
+			}
+		},
+		{
+			"filename": "p5js",
+			"values": {
+				"title" : "Projects |  p5.js Web Editor",
+				"content": "content_p5js.html"
+			}
+		},
+		{
+			"filename": "augmentedhandsseries",
+			"values": {
+				"title" : "Projects | Augmented Hands Series",
+				"content": "content_augmentedhands.html"
+			}
+		},
+		{
+			"filename": "ddr",
+			"values": {
+				"title" : "Projects | Dahn Dahn Right",
+				"content": "content_ddr.html"
+			}
+		},
+		{
+			"filename": "mimi",
+			"values": {
+				"title" : "Dog | Mimi",
+				"content": "content_mimi.html"
+			}
+		}
+	]
+}
